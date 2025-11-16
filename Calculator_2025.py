@@ -3,7 +3,7 @@ print('Calculator using Python-Daron Lauray')
 import sys
 import math
 #sys.maxsize
-sys.set_int_max_str_digits(100000000)
+sys.set_int_max_str_digits(1000000000)
 
 value=0
 while value != "done":
